@@ -1,0 +1,694 @@
+*{
+    margin: 0px;
+}
+
+.contaner{
+    width: 1400px;
+    min-height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header{
+    width: 1400px;
+    height: 700px;
+    background-image: url(img/photodune-3598715-woman-in-red-m.jpg);
+    background-size: cover;
+}
+
+.fake{
+    width: 1400px;
+    height: 700px;
+    background-color: rgba(0, 0, 0, 0.507);
+}
+
+.black{
+    width: 1400px;
+    height: 64px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.home{
+    width: 970px;
+    height: 64px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+}
+
+.e1{
+    transition: 1s all ease-in-out;
+}
+.e1:hover{
+    color: red;
+}
+
+.e2{
+    transition: 1s all ease-in-out;
+
+}
+.e2:hover{
+    color: red;
+}
+.e3{
+    transition: 1s all ease-in-out;
+}
+.e3:hover{
+    color: red;
+}
+.e4{
+    transition: 1s all ease-in-out;
+}
+.e4:hover{
+    color: red;
+}
+.e5{
+    transition: 1s all ease-in-out;
+}
+.e5:hover{
+    color: red;
+}
+.e6{
+    transition: 1s all ease-in-out;
+}
+.e6:hover{
+    color: red;
+}
+.e7{
+    transition: 1s all ease-in-out;
+}
+.e7:hover{
+    color: red;
+}
+.e8{
+    transition: 1s all ease-in-out;
+}
+.e8:hover{
+    color: red;
+}
+.why{
+    width: 1400px;
+    height: 360px;
+   
+    margin-top: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.rew{
+    width: 270px;
+    height: 50px;
+    display: flex;
+    gap: 5px;
+    font-weight: 600;
+    font-size: 30px;
+}
+.wite{
+    color: white;
+
+}
+
+.red{
+    color: red;
+}
+
+.center{
+    width: 1070px;
+    height: 360px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.galka{
+    width: 155px;
+    height: 360px;
+   
+    font-size: 33px;
+    color: white;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+}
+.galka2{
+    width: 155px;
+    height: 360px;
+    
+    font-size: 33px;
+    color: rgb(255, 0, 0);
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+
+.loren{
+    text-align: center;
+    color: white;
+}
+
+.knopki{
+    width: 375px;
+    height: 53px;
+    display: flex;
+    gap: 35px;
+}
+
+.knopka1{
+    width: 170px;
+    height: 53px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 2s all ease-in-out;
+}
+
+.knopka1:hover{
+    background-color: rgb(255, 0, 0);
+}
+
+.knopka2{
+    width: 170px;
+    height: 53px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 2s all ease-in-out;
+}
+
+
+
+.white{
+    width: 1400px;
+    height: 1177px;
+    background-color: white;
+}
+
+.nazva{
+    width: 1400px;
+    height: 287px;
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+.big{
+    font-size: 44px;
+    font-weight: 600;
+}
+
+.small{
+    font-size: 18px;
+    color: grey;
+}
+
+.romb{
+    width: 1400px;
+    height: 365px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.miniromb{
+    width: 1178px;
+    height: 365px;
+   
+    display: flex;
+}
+
+.text{
+    width: 600px;
+    height: 365px;
+  
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.picture{
+    width: 578px;
+    height: 365px;
+   
+}
+
+.lui{
+    color: grey;
+}
+
+.how{
+    width: 573px;
+    height: 133px;
+    border: 1px rgb(194, 193, 193) solid;
+}
+
+.how1{
+    width: 573px;
+    height: 45px;
+    border: 1px rgb(194, 193, 193) solid;
+    background-color: rgb(240, 240, 240);
+    display: flex;
+    gap: 10px;
+
+}
+
+.img{
+    width: 60px;
+    height: 45px;
+    border: 1px rgb(212, 211, 211) solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.red3{
+     color: red;
+     font-size: 30px;
+
+}
+
+.grey{
+    font-size: 30px;
+    color: rgb(0, 0, 0) ;
+}
+
+.poloca{
+    width: 1400px;
+    height: 219px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.konz{
+    width: 1400px;
+    height: 309px;
+   
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.cube{
+    width: 260px;
+    height: 309px;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+
+.near{
+     font-size: 18px;
+
+}
+
+.joke{
+    color: grey;
+    text-align: center;
+}
+
+.negro{
+    width: 1400px;
+    height: 270px;
+    background-color: rgb(36, 35, 35);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.her{
+    font-size: 30px;
+    color: white;
+    font-weight: 600;
+}
+
+.him{
+    color: grey ;
+    font-size: 20px;
+
+}
+
+.kartinki{
+    width: 1400px;
+    height: 700px;
+   
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cherti11{
+    width: 398px;
+    height: 350px;
+  
+}
+.cherti12{
+    width: 303px;
+    height: 350px;
+    background-image: url(img/Layer\ 15.png);
+    background-size: cover;
+}
+.cherti13{
+    width: 399px;
+    height: 350px;
+    
+}
+.cherti14{
+    width: 300px;
+    height: 350px;
+    
+}
+.cherti15{
+    width: 299px;
+    height: 350px;
+  
+}
+.cherti16{
+    width: 401px;
+    height: 350px;
+  
+}
+.cherti17{
+    width: 300px;
+    height: 350px;
+    
+}
+.cherti18{
+    width: 400px;
+    height: 350px;
+   
+}
+
+.fak{
+    width: 303px;
+    height: 350px;
+    background-color: rgba(0, 0, 0, 0.863);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.plas{
+    width: 120px;
+    height: 100px;
+  
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.bigger{
+    font-size: 50px;
+    font-weight: 900;
+    color: white;
+}
+
+.bwblock{
+    width: 1400px;
+    height: 1000px;
+    background-color: white;
+}
+
+.outblock{
+    width: 1400px;
+    height: 300px;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 54px;
+}
+
+.bbig{
+    color: black;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.lorka{
+    font-size: 16px;
+    color: gray
+}
+
+.table{
+    width: 1400px;
+    height: 600px;
+
+    display: flex;
+    position: relative;
+    z-index: 2;
+}
+.chel{
+    width: 470px;
+    height: 600px;
+    
+    
+}
+.telephone{
+    width: 474px;
+    height: 600px;
+
+}
+
+.phone{
+    width: 400px;
+    height: 400px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.mini{
+    position: relative;
+    width: 474px;
+    height: 397px;
+    margin-top: -400px;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: 1;
+    
+}
+.kop{
+    width: 160px;
+    height: 60px;
+    background-color: gray;
+    margin-top: -110px;
+    position: relative;
+    z-index: 2;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.team{
+    width: 374px;
+    height: 207px;
+   
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 81px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+}
+
+.redd{
+    width: 374px;
+    height: 52px;
+    background-color: red;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 10px;
+    color: white;
+    font-size: 20px;
+    padding-right: 22px;
+   
+}
+.redd1{
+    width: 374px;
+    height: 52px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    padding-right: 22px;
+    border: 1px rgb(177, 177, 177) solid;
+}
+.white2{
+    width: 374px;
+    height: 52px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 30px;
+   padding-right: 22px;
+    font-size: 20px;
+    border: 1px rgb(207, 207, 207) solid;
+}
+.white3{
+    width: 374px;
+    height: 52px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 30px;
+   padding-left: 22px;
+    font-size: 20px;
+    border: 1px rgb(196, 195, 195) solid;
+}
+
+.tresh{
+    width: 37px;
+    height: 33px;
+    background-image: url(img/Shape\ 2\ copy\ 5.png);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.tresh1{
+    width: 37px;
+    height: 33px;
+    background-image: url(img/Shape\ 2\ copy\ 6.png);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.tresh2{
+    width: 37px;
+    height: 33px;
+    background-image: url(img/Shape\ 2\ copy\ 6.png);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.mwblock{
+    width: 1400px;
+    height: 100px;
+    background-color: white;
+}
+
+.negro{
+    width: 1400px;
+    height: 652px;
+    background-image: url(img/photodune-3414776-business-group-m.png);
+    background-size: cover;
+}
+
+.negr{
+    width: 1400px;
+    height: 652px;
+    background-color: rgba(0, 0, 0, 0.74);
+}
+
+.clinika{
+    width: 1400px;
+    height: 278px;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.loloshka{
+   font-size: 30px;
+   color: white;
+   font-weight: 800;
+}
+
+.lorka1{
+    color: rgb(255, 255, 255);
+}
+
+.dgivotnae{
+    width: 1400px;
+    height: 375px;
+    background-color: blueviolet;
+    display: flex;
+}
+
+.lorka2{
+    color: white;
+    font-size: 20px;
+}
+.ooo{
+    width: 80px;
+    height: 70px;
+
+}
+.one{
+    width: 712px;
+    height: 375px;
+    background-color: rgb(167, 192, 142);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    text-align: center;
+
+}
+
+.two{
+    width: 689px;
+    height: 375px;
+    background-color: darkgoldenrod;
+}
+
+.four{
+    width: 575px;
+    height: 275px;
+    background-color: cadetblue;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.eeey{
+    width: 274px;
+    height: 120px;
+    background-color: rgb(204, 204, 204);
+}
+
+.cube2{
+    
+}
